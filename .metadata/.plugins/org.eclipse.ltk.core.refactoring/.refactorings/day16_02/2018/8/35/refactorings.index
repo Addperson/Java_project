@@ -1,0 +1,9 @@
+1535278337661	Move 'c3p0-0.9.1.2.jar' to 'lib'
+1535278344068	Move 'commons-dbutils-1.4.jar' to 'lib'
+1535278349865	Move 'mysql-connector-java-5.1.7-bin.jar' to 'lib'
+1535278352799	Delete element
+1535330544184	Move 'demo08.jsp' to 'WebContent'
+1535357439509	Encapsulate field 'cname'
+1535358740887	Copy compilation unit
+1535359244834	Copy file
+1535359290863	Copy file

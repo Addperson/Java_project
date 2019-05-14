@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<classpath>
+  <source-attachment entry="D:/tomcat/apache-tomcat-7.0.90/lib/catalina.jar" runtime-id="Apache Tomcat v7.0" source-attachment-path="F:/百度云下载/code&amp;资料/mysql-connector-java-5.1.7"/>
+  <source-attachment entry="D:/tomcat/apache-tomcat-7.0.90/lib/servlet-api.jar" runtime-id="Apache Tomcat v7.0" source-attachment-path="D:/tomcat/apache-tomcat-7.0.90/lib/servlet-api.jar">
+    <attribute name="source_encoding" value="ISO-8859-1"/>
+  </source-attachment>
+</classpath>

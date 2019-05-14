@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Aug 27 16:50:24 CST 2018
+org.eclipse.jst.jee.server\:day16=D\:\\tomcat\\apache-tomcat-7.0.90\\wtpwebapps\\day16
+org.eclipse.jst.jee.server\:day16_02=D\:\\tomcat\\apache-tomcat-7.0.90\\wtpwebapps\\day16_02
